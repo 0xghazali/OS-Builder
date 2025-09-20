@@ -84,3 +84,5 @@ Packages: nmap git wireshark aircrack-ng hydra
 Built on top of Debian Live-Build
 
 Script and branding by 0x
+
+Video: https://youtu.be/82BFrHSFkwc
